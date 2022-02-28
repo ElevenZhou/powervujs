@@ -1,0 +1,2155 @@
+.page {
+  position: relative;
+  width: 100vw;
+  height: 484.95vw;
+  background-color: rgba(0, 0, 0, 1);
+  overflow: hidden;
+}
+
+.outer1 {
+  width: 100vw;
+  height: 484.95vw;
+}
+
+.block1 {
+  width: 100vw;
+  height: 71.52vw;
+  background: url(./img/SketchPngdc0e3a923c127e0264b103c95aee848138a0db510113dfb322279b219835919f.png)
+    100% no-repeat;
+}
+
+.block2 {
+  height: 33.03vw;
+  background-color: rgba(19, 25, 27, 1);
+  padding-top: 5.16vw;
+  width: 99.95vw;
+  margin: 380.41vw 0 0 0.05vw;
+}
+
+.main1 {
+  width: 39.02vw;
+  height: 26.46vw;
+}
+
+.pic1 {
+  width: 13.18vw;
+  height: 6.2vw;
+  margin-left: 12.97vw;
+}
+
+.word1 {
+  width: 25.27vw;
+  height: 1.62vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.14vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 1.62vw;
+  text-align: center;
+  margin: 3.22vw 0 0 6.87vw;
+}
+
+.mod1 {
+  width: 27.5vw;
+  height: 3.34vw;
+  margin: 1.97vw 0 0 5.72vw;
+}
+
+.main2 {
+  height: 3.34vw;
+  border-radius: 8px 0 0 8px;
+  background-color: rgba(30, 40, 43, 1);
+  padding-left: 0.99vw;
+  width: 18.75vw;
+}
+
+.txt1 {
+  width: 9.22vw;
+  height: 1.46vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(81, 107, 115, 1);
+  font-size: 1.04vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 1.46vw;
+  text-align: left;
+}
+
+.main3 {
+  height: 3.23vw;
+  border-radius: 0 8px 8px 0;
+  background: url(./img/SketchPngf1a66578322804b42901a47a7dd7b5c80ddf84da1cf0a3e806d0206a1f7a561e.png)
+    100% no-repeat;
+  margin-top: 0.06vw;
+  padding-left: 2.24vw;
+  width: 8.75vw;
+}
+
+.info1 {
+  width: 4.33vw;
+  height: 1.57vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.25vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.57vw;
+  text-align: center;
+}
+
+.mod2 {
+  width: 23.18vw;
+  height: 3.49vw;
+  margin: 3.22vw 0 0 5.78vw;
+}
+
+.layer1 {
+  width: 2.09vw;
+  height: 2.09vw;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: 1.41vw;
+}
+
+.pic2 {
+  width: 18.91vw;
+  height: 3.13vw;
+}
+
+.info2 {
+  width: 39.02vw;
+  height: 0.89vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(39, 100, 85, 1);
+  font-size: 0.62vw;
+  white-space: nowrap;
+  line-height: 0.89vw;
+  text-align: center;
+  margin-top: 2.5vw;
+}
+
+.outer2 {
+  z-index: 3;
+  height: 104.69vw;
+  background: url(./img/SketchPng10e0e61ab5cef8858487e0f79d93b3cdd65f3b07a5e9fb1d262abcf9367edb25.png) -0.06vw
+    0vw no-repeat;
+  background-size: 178.8vw 104.68vw;
+  width: 178.75vw;
+  position: absolute;
+  left: -39.42vw;
+  top: -20.26vw;
+  padding: 25.05vw 0 0 39.42vw;
+}
+
+.mod3 {
+  width: 92.92vw;
+  height: 66.78vw;
+}
+
+.box1 {
+  height: 3.34vw;
+  background: url(./img/SketchPng1c2a9e05ed5be813a15b948d5827c85bac01cb7311a8a1c8125f9c3f4157904e.png)
+    100% no-repeat;
+  margin-left: 7.14vw;
+  width: 85.79vw;
+  padding: 0.67vw 0 0 5.1vw;
+}
+
+.bd1 {
+  width: 76.15vw;
+  height: 2.04vw;
+}
+
+.txt2 {
+  width: 2.04vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  margin-top: 0.37vw;
+}
+
+.word2 {
+  width: 4.02vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  margin: 0.36vw 0 0 9.06vw;
+}
+
+.word3 {
+  width: 1.78vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  margin: 0.36vw 0 0 9.01vw;
+}
+
+.txt3 {
+  width: 3.81vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  margin: 0.36vw 0 0 23.75vw;
+}
+
+.word4 {
+  width: 4.43vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  margin: 0.36vw 0 0 5.2vw;
+}
+
+.main4 {
+  height: 2.04vw;
+  border-radius: 8px;
+  border: 1px solid;
+  margin-left: 4.48vw;
+  padding-left: 0.63vw;
+  width: 8.6vw;
+}
+
+.word5 {
+  width: 7.35vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(246, 172, 6, 1);
+  font-size: 1.04vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: center;
+  background-image: linear-gradient(
+    180deg,
+    rgba(181, 255, 221, 1) 0%,
+    rgba(1, 144, 142, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.box2 {
+  width: 3.81vw;
+  height: 2.14vw;
+  background: url(./img/SketchPng0c060a2654bf0b88826684dc9031ae4ce27ec71f80eebef137002a07d9b9ab3b.png) -0.06vw
+    0vw no-repeat;
+  background-size: 3.85vw 2.13vw;
+  margin: 4.42vw 0 0 46.87vw;
+}
+
+.box3 {
+  width: 66.31vw;
+  height: 8.13vw;
+  margin-left: 19.33vw;
+}
+
+.section1 {
+  width: 4.02vw;
+  height: 1.57vw;
+  background: url(./img/SketchPngdc4474f67924a10951026d74351b3b9480e0d242d0ab5d4b1de4318d5872bbe2.png) -0.06vw
+    0vw no-repeat;
+  background-size: 4.06vw 1.56vw;
+}
+
+.infoBox1 {
+  width: 52.09vw;
+  height: 6.05vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 1.66vw;
+  font-family: MountainsofChristmas-Regular;
+  line-height: 3.03vw;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 2.08vw 0 0 0.62vw;
+}
+
+.img1 {
+  width: 4.02vw;
+  height: 1.57vw;
+  margin: 0.67vw 0 0 5.57vw;
+}
+
+.img2 {
+  width: 3.86vw;
+  height: 1.15vw;
+  margin: 1.77vw 0 0 62.6vw;
+}
+
+.box4 {
+  width: 85.99vw;
+  height: 45.73vw;
+  margin-top: 0.11vw;
+}
+
+.group1 {
+  height: 43.7vw;
+  background: url(./img/SketchPng176caa117e9d28d0afeda3b28efd54842dc435a5958c11777e09a3385ceb583a.png)
+    0vw -0.06vw no-repeat;
+  background-size: 43.75vw 43.69vw;
+  margin-top: 2.04vw;
+  width: 43.75vw;
+}
+
+.bd2 {
+  width: 6.57vw;
+  height: 4.8vw;
+  margin: 16.71vw 0 0 7.76vw;
+}
+
+.outer3 {
+  width: 6.57vw;
+  height: 4.8vw;
+  background: url(./img/SketchPng6adabd775c137136b94d61bafc2b9ba7643891416fc6acebbfb3143923713ed9.png)
+    0vw 0vw no-repeat;
+  background-size: 6.56vw 4.79vw;
+}
+
+.bd3 {
+  width: 11.36vw;
+  height: 9.54vw;
+  margin: 1.92vw 0 10.72vw 21.92vw;
+}
+
+.group2 {
+  width: 11.36vw;
+  height: 9.54vw;
+  background: url(./img/SketchPng269b82bc933f44835afc1be6c1fa94c7cd35f578fafec3346c418a6ad1579225.png)
+    0vw 0vw no-repeat;
+  background-size: 11.35vw 9.53vw;
+}
+
+.group3 {
+  width: 12.5vw;
+  height: 45.42vw;
+}
+
+.outer4 {
+  height: 2.92vw;
+  border-radius: 10px;
+  background-color: rgba(19, 25, 27, 1);
+  box-shadow: inset 0px -5px 19px 0px rgba(43, 223, 123, 0.64);
+  margin-left: 0.53vw;
+  padding-left: 2.35vw;
+  width: 11.46vw;
+}
+
+.word6 {
+  width: 6.83vw;
+  height: 1.57vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.57vw;
+  text-align: center;
+}
+
+.outer5 {
+  height: 26.15vw;
+  background: url(./img/SketchPngdc954594d8bd475bd25113436b8b182120a8012bf37a626c8dac0a279d14585c.png)
+    100% no-repeat;
+  margin-top: 16.36vw;
+  width: 12.5vw;
+  padding: 3.28vw 0 0 6.92vw;
+}
+
+.pic3 {
+  width: 3.49vw;
+  height: 1.83vw;
+}
+
+.group4 {
+  width: 10.73vw;
+  height: 11.15vw;
+  background: url(./img/SketchPng7b5f573ff1524e374f5c0dd51320a014fa44e866e51f4b20c7afb51630daca49.png)
+    0vw -0.06vw no-repeat;
+  background-size: 10.72vw 11.19vw;
+  margin: 13.75vw 0 0 19.01vw;
+}
+
+.mod4 {
+  z-index: 38;
+  height: 5.42vw;
+  background: url(./img/SketchPng190a1fea10a1cf8df34c7957d18ab03c769e429e00ee560752017c26f25e9a9b.png)
+    100% no-repeat;
+  width: 13.55vw;
+  position: absolute;
+  left: 82.66vw;
+  top: 24.43vw;
+  padding: 0.88vw 0 0 3.02vw;
+}
+
+.main5 {
+  width: 7.56vw;
+  height: 3.6vw;
+}
+
+.group5 {
+  width: 4.8vw;
+  height: 1.67vw;
+  background: url(./img/SketchPngb61dd5e3ca41bbd07cea2952997f2ee057864bd615225670b0550599fa860102.png)
+    0vw 0vw no-repeat;
+  background-size: 4.79vw 1.66vw;
+  margin-left: 1.46vw;
+}
+
+.group6 {
+  width: 7.56vw;
+  height: 1.83vw;
+  background: url(./img/SketchPng85e0a238230a27bef6e46c71867cc161c2bf937b26ac2b7b6a43c429b9534dfc.png)
+    0vw 0vw no-repeat;
+  background-size: 7.55vw 1.82vw;
+  margin-top: 0.11vw;
+}
+
+.img3 {
+  z-index: 66;
+  position: absolute;
+  left: 116.36vw;
+  top: 43.6vw;
+  width: 3.18vw;
+  height: 8.39vw;
+}
+
+.img4 {
+  z-index: 61;
+  position: absolute;
+  left: 119.9vw;
+  top: 46.1vw;
+  width: 5.73vw;
+  height: 4.74vw;
+}
+
+.img5 {
+  z-index: 69;
+  position: absolute;
+  left: 50.94vw;
+  top: 45.58vw;
+  width: 5.42vw;
+  height: 6.2vw;
+}
+
+.pic4 {
+  z-index: 70;
+  position: absolute;
+  left: 55.27vw;
+  top: 45.37vw;
+  width: 5.79vw;
+  height: 12.04vw;
+}
+
+.pic5 {
+  z-index: 274;
+  position: absolute;
+  left: 80.53vw;
+  top: 52.87vw;
+  width: 3.34vw;
+  height: 1.52vw;
+}
+
+.mod5 {
+  z-index: 60;
+  height: 44.85vw;
+  background: url(./img/SketchPng30b818c8f9cbf1b246f96593c9702875cb818eb3461c792ca329f11422318aad.png)
+    100% no-repeat;
+  width: 43.75vw;
+  position: absolute;
+  left: 95.68vw;
+  top: 46.93vw;
+}
+
+.bd4 {
+  width: 11.1vw;
+  height: 6.78vw;
+  margin: 23.33vw 0 0 11.77vw;
+}
+
+.main6 {
+  width: 11.1vw;
+  height: 6.78vw;
+  background: url(./img/SketchPng5228d3bb917cb5891cd1ee64da133e2b03abe449495eefc90f878943af173761.png) -0.06vw
+    0vw no-repeat;
+  background-size: 11.14vw 6.82vw;
+}
+
+.bd5 {
+  width: 6.46vw;
+  height: 4.17vw;
+  margin: -16.35vw 0 0 28.07vw;
+}
+
+.main7 {
+  width: 6.46vw;
+  height: 4.17vw;
+  background: url(./img/SketchPnge9342b7b2446f323e2e6b813f3743d3e6aa03349616a71089e1ee0945b845330.png)
+    0vw 0vw no-repeat;
+  background-size: 6.45vw 4.16vw;
+}
+
+.bd6 {
+  width: 3.96vw;
+  height: 2.56vw;
+  margin: 19.16vw 0 5.2vw 32.08vw;
+}
+
+.section2 {
+  width: 3.96vw;
+  height: 2.56vw;
+  background: url(./img/SketchPngd95df75664e726f3848afd2fec96eb231c6efba05a54bc0f1179b79515602c3b.png)
+    0vw 0vw no-repeat;
+  background-size: 3.95vw 2.55vw;
+}
+
+.outer6 {
+  z-index: 138;
+  position: absolute;
+  left: 45.37vw;
+  top: 62.4vw;
+  width: 9.28vw;
+  height: 9.33vw;
+  background: url(./img/SketchPng9140db827951bb1720b0dc8c834991ebf15d8b719ac77b18902199e9cdbccbd5.png)
+    100% no-repeat;
+}
+
+.outer7 {
+  z-index: 86;
+  height: 236.05vw;
+  background-color: rgba(19, 25, 27, 1);
+  width: 100vw;
+  position: absolute;
+  left: 0;
+  top: 71.25vw;
+  padding: 0.52vw 0 0 13.28vw;
+}
+
+.block3 {
+  width: 71.52vw;
+  height: 227.4vw;
+}
+
+.box5 {
+  width: 67.5vw;
+  height: 29.74vw;
+}
+
+.outer8 {
+  height: 29.74vw;
+  background: url(./img/SketchPng220e1ef73024ecaf9d467b2d4f1928b8f7160a6a80a735c931f608d943c06060.png)
+    100% no-repeat;
+  width: 40.99vw;
+  padding: 10.57vw 0 0 24.11vw;
+}
+
+.img6 {
+  width: 3.39vw;
+  height: 2.82vw;
+}
+
+.outer9 {
+  width: 4.43vw;
+  height: 2.35vw;
+  background: url(./img/SketchPng4590e5eccf3016afcc36eca31689de67101d3698d484bd910088b843a096efa6.png) -0.06vw
+    0vw no-repeat;
+  background-size: 4.47vw 2.34vw;
+  margin-top: 7.92vw;
+}
+
+.box6 {
+  width: 62.45vw;
+  height: 26.46vw;
+  margin: 0.57vw 0 0 5vw;
+}
+
+.img7 {
+  width: 37.35vw;
+  height: 26.46vw;
+}
+
+.layer2 {
+  width: 13.6vw;
+  height: 3.39vw;
+  border-radius: 8px;
+  border: 1px solid;
+  margin: 5.83vw 0 0 0.62vw;
+}
+
+.layer3 {
+  width: 0.58vw;
+  height: 0.84vw;
+  background: url(./img/SketchPng7a9483801aa3edd5817e59c3f70f9b53442b18ffc4add8a7aa19c23138502bf5.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 0.57vw 0.88vw;
+  margin: 2.6vw 0 0 8.12vw;
+}
+
+.layer4 {
+  width: 1.52vw;
+  height: 3.34vw;
+  margin: 1.77vw 0 0 0.67vw;
+}
+
+.outer10 {
+  width: 1.1vw;
+  height: 1.67vw;
+  background: url(./img/SketchPng3bbaf44efd311b7c2ba977d8a04a22cb36f9d733b0086a11bfb25e295c571c28.png) -0.06vw
+    0vw no-repeat;
+  background-size: 1.09vw 1.66vw;
+}
+
+.outer11 {
+  width: 0.79vw;
+  height: 1.2vw;
+  background: url(./img/SketchPngc4172c7ffa2c49cab4c77b67317ad3923d82546abe96ff89066717e5829d798d.png) -0.06vw
+    0vw no-repeat;
+  background-size: 0.83vw 1.19vw;
+  margin: 0.46vw 0 0 0.72vw;
+}
+
+.box7 {
+  width: 63.29vw;
+  height: 25.32vw;
+  margin: 8.54vw 0 0 8.22vw;
+}
+
+.outer12 {
+  width: 33.29vw;
+  height: 19.22vw;
+  margin-top: 1.36vw;
+}
+
+.word7 {
+  width: 32.71vw;
+  height: 6.98vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(245, 122, 10, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  line-height: 3.49vw;
+  text-align: center;
+  background-image: linear-gradient(
+    270deg,
+    rgba(16, 192, 163, 1) 0%,
+    rgba(188, 243, 160, 1) 53%,
+    rgba(17, 195, 165, 1) 100%
+  );
+  margin-left: 0.58vw;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.word8 {
+  width: 31.72vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin-top: 2.5vw;
+}
+
+.word9 {
+  width: 31.72vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin-top: 1.67vw;
+}
+
+.info3 {
+  width: 31.72vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin-top: 1.67vw;
+}
+
+.outer13 {
+  width: 12.5vw;
+  height: 25.06vw;
+  margin: 0.15vw 0 0 4.79vw;
+}
+
+.wrap1 {
+  height: 12.3vw;
+  background: url(./img/SketchPng3cddeeee68ac63b33fa6f03559557729d5a0facbd17c5d56a103724c022298a3.png) -2.04vw -1.98vw
+    no-repeat;
+  background-size: 16.56vw 16.4vw;
+  width: 12.5vw;
+}
+
+.outer14 {
+  width: 9.69vw;
+  height: 9.69vw;
+  background: url(./img/SketchPngcc35e03cbecff03dc2825d8eac1d7bf700ac5cdc6694cfbd852461b4baacefd1.png) -0.06vw
+    0vw no-repeat;
+  background-size: 9.73vw 9.68vw;
+}
+
+.wrap2 {
+  height: 12.3vw;
+  background: url(./img/SketchPngce9cfc30f1bbd4dba8389acdd2e6da297173d5a34cd04f0db15bac63382455e0.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 12.6vw 12.34vw;
+  margin-top: 0.47vw;
+  padding-left: 1.46vw;
+  width: 12.5vw;
+}
+
+.outer15 {
+  width: 9.69vw;
+  height: 9.69vw;
+  background: url(./img/SketchPngf3a331e66e9e6e508f448687d083eca3e9aa2d5f3406c37f2c68fe439f4d2102.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 9.73vw 9.68vw;
+}
+
+.outer16 {
+  width: 12.3vw;
+  height: 25.32vw;
+  margin-left: 0.42vw;
+}
+
+.bd7 {
+  height: 12.5vw;
+  background: url(./img/SketchPngf1fc62a22ade90442248524288a3e971c0eece32e849e180a945155ae8c30383.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 12.34vw 12.6vw;
+  padding-top: 1.41vw;
+  width: 12.3vw;
+}
+
+.box8 {
+  width: 9.69vw;
+  height: 9.74vw;
+  background: url(./img/SketchPngf55c2f5b78ba93f8c4221e449cca19069aad7b3a49cbd8dbdde94c6d15b46dc7.png)
+    0vw 0vw no-repeat;
+  background-size: 9.68vw 9.73vw;
+}
+
+.bd8 {
+  height: 12.5vw;
+  background: url(./img/SketchPngdbeb623a3ab6ca69d60c1fecb75e4f4bc7e790badb7d998e1112838cec9b3ce2.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 12.34vw 12.6vw;
+  margin-top: 0.32vw;
+  width: 12.3vw;
+}
+
+.box9 {
+  width: 9.69vw;
+  height: 9.69vw;
+  background: url(./img/SketchPngcfadaca366e8ee918d6f6d8433bd6e997ba935008281186ba5a0d0a63ec28ce4.png)
+    0vw -0.06vw no-repeat;
+  background-size: 9.68vw 9.68vw;
+}
+
+.box10 {
+  width: 38.6vw;
+  height: 15.27vw;
+  margin: 2.29vw 0 0 26.87vw;
+}
+
+.group7 {
+  height: 14.22vw;
+  background: url(./img/SketchPng5574ef29bd0f0095e8e407aafffb0f2f9927eb461113febc2e96727217c71f09.png)
+    100% no-repeat;
+  margin-top: 1.05vw;
+  padding-top: 4.48vw;
+  width: 12.5vw;
+}
+
+.outer17 {
+  width: 9.28vw;
+  height: 9.33vw;
+  background: url(./img/SketchPng9140db827951bb1720b0dc8c834991ebf15d8b719ac77b18902199e9cdbccbd5.png)
+    100% no-repeat;
+}
+
+.group8 {
+  height: 3.08vw;
+  border-radius: 8px;
+  border: 1px solid;
+  width: 12.5vw;
+  padding: 0.57vw 0 0 4.01vw;
+}
+
+.info4 {
+  width: 4.43vw;
+  height: 1.78vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.45vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.78vw;
+  text-align: center;
+  background-image: linear-gradient(
+    90deg,
+    rgba(203, 253, 177, 1) 0%,
+    rgba(95, 236, 133, 1) 50%,
+    rgba(14, 170, 148, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.word10 {
+  width: 39.02vw;
+  height: 3.49vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(245, 122, 10, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 3.49vw;
+  text-align: center;
+  background-image: linear-gradient(
+    270deg,
+    rgba(16, 192, 163, 1) 0%,
+    rgba(188, 243, 160, 1) 53%,
+    rgba(17, 195, 165, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 9.68vw 0 0 17.5vw;
+}
+
+.info5 {
+  width: 53.86vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin: 2.39vw 0 0 9.79vw;
+}
+
+.info6 {
+  width: 53.86vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin: 1.66vw 0 0 9.79vw;
+}
+
+.word11 {
+  width: 53.86vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin: 1.66vw 0 0 9.79vw;
+}
+
+.box11 {
+  width: 61.57vw;
+  height: 20.84vw;
+  margin: 7.86vw 0 0 5.93vw;
+}
+
+.box12 {
+  z-index: 243;
+  height: 20.84vw;
+  background: url(./img/SketchPng49dcdfd87962ae20ed44fa08fef5c266857c9a9333904e03689ba9bd6ea6264e.png)
+    100% no-repeat;
+  width: 11.15vw;
+  position: relative;
+  padding: 18.28vw 0 0 2.86vw;
+}
+
+.outer18 {
+  width: 3.75vw;
+  height: 1.2vw;
+  background: url(./img/SketchPng29b336ffa613ec9983c53fcaf51f732c0fa0c35da0329999c4c1be87fd1ff339.png) -0.21vw -0.27vw
+    no-repeat;
+  background-size: 4.16vw 1.71vw;
+}
+
+.outer19 {
+  z-index: 245;
+  position: absolute;
+  left: 0.73vw;
+  top: 8.96vw;
+  width: 9.64vw;
+  height: 11.15vw;
+  background: url(./img/SketchPng96123e0cf4b6d9e48af1d9fafdc8c3abad0cd85da264a404daf7940a7095f531.png)
+    100% no-repeat;
+}
+
+.box13 {
+  z-index: 231;
+  height: 20.84vw;
+  background: url(./img/SketchPng49dcdfd87962ae20ed44fa08fef5c266857c9a9333904e03689ba9bd6ea6264e.png)
+    100% no-repeat;
+  width: 11.15vw;
+  position: relative;
+  padding: 18.69vw 0 0 3.07vw;
+}
+
+.section3 {
+  width: 3.75vw;
+  height: 1.2vw;
+  background: url(./img/SketchPng29b336ffa613ec9983c53fcaf51f732c0fa0c35da0329999c4c1be87fd1ff339.png) -0.21vw -0.27vw
+    no-repeat;
+  background-size: 4.16vw 1.71vw;
+}
+
+.img8 {
+  z-index: 233;
+  position: absolute;
+  left: 0.68vw;
+  top: 9.64vw;
+  width: 9.85vw;
+  height: 10.06vw;
+}
+
+.box14 {
+  z-index: 227;
+  height: 20.84vw;
+  background: url(./img/SketchPnge5d2636512e47a09bdf64f1c383a13f2fd76c7ffbab7910f4f3ebb3cf8562de2.png)
+    100% no-repeat;
+  width: 11.15vw;
+  position: relative;
+  padding: 9.94vw 0 0 0.78vw;
+}
+
+.img9 {
+  width: 9.64vw;
+  height: 9.74vw;
+}
+
+.main8 {
+  z-index: 229;
+  position: absolute;
+  left: 3.39vw;
+  top: 18.65vw;
+  width: 3.75vw;
+  height: 1.2vw;
+  background: url(./img/SketchPngcf009ce7fd38799162b847054ec852352564ad9e2b313712fa73ddfc37eb2fc1.png) -0.32vw -0.37vw
+    no-repeat;
+  background-size: 4.37vw 1.92vw;
+}
+
+.box15 {
+  z-index: 235;
+  height: 20.84vw;
+  background: url(./img/SketchPng49dcdfd87962ae20ed44fa08fef5c266857c9a9333904e03689ba9bd6ea6264e.png)
+    100% no-repeat;
+  width: 11.15vw;
+  position: relative;
+  padding: 18.85vw 0 0 3.02vw;
+}
+
+.layer5 {
+  width: 3.75vw;
+  height: 1.2vw;
+  background: url(./img/SketchPng29b336ffa613ec9983c53fcaf51f732c0fa0c35da0329999c4c1be87fd1ff339.png) -0.21vw -0.27vw
+    no-repeat;
+  background-size: 4.16vw 1.71vw;
+}
+
+.img10 {
+  z-index: 237;
+  position: absolute;
+  left: 0.37vw;
+  top: 9.9vw;
+  width: 10.37vw;
+  height: 9.8vw;
+}
+
+.box16 {
+  z-index: 239;
+  height: 20.84vw;
+  background: url(./img/SketchPng49dcdfd87962ae20ed44fa08fef5c266857c9a9333904e03689ba9bd6ea6264e.png)
+    100% no-repeat;
+  width: 11.15vw;
+  position: relative;
+  padding: 18.85vw 0 0 2.96vw;
+}
+
+.group9 {
+  width: 3.75vw;
+  height: 1.2vw;
+  background: url(./img/SketchPng29b336ffa613ec9983c53fcaf51f732c0fa0c35da0329999c4c1be87fd1ff339.png) -0.21vw -0.27vw
+    no-repeat;
+  background-size: 4.16vw 1.71vw;
+}
+
+.img11 {
+  z-index: 241;
+  position: absolute;
+  left: 0.68vw;
+  top: 9.95vw;
+  width: 9.8vw;
+  height: 9.74vw;
+}
+
+.word12 {
+  width: 39.02vw;
+  height: 3.49vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(245, 122, 10, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 3.49vw;
+  text-align: center;
+  background-image: linear-gradient(
+    270deg,
+    rgba(16, 192, 163, 1) 0%,
+    rgba(188, 243, 160, 1) 53%,
+    rgba(17, 195, 165, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 9.84vw 0 0 15.88vw;
+}
+
+.txt4 {
+  width: 27.56vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+  margin: 2.5vw 0 0 21.77vw;
+}
+
+.box17 {
+  z-index: 104;
+  height: 41.15vw;
+  background: url(./img/SketchPngb1134efffd0ca174b782940b4601980cf10ba4a94a80e44e99df12e381a86c20.png) -5.68vw -5.68vw
+    no-repeat;
+  background-size: 76.56vw 52.65vw;
+  width: 65.63vw;
+  position: relative;
+  margin: 6.09vw 0 0 4.47vw;
+  padding: 2.08vw 0 0 0.98vw;
+}
+
+.bd9 {
+  z-index: 106;
+  position: relative;
+  width: 62.5vw;
+  height: 37.71vw;
+  overflow: hidden;
+  background: url(./img/SketchPng655689813ced0e8302f156ecc0dedccdd98b697cc70bbbc9b0f0492c560f7360.png)
+    0.42vw 0vw no-repeat;
+  background-size: 62.08vw 37.7vw;
+}
+
+.pic6 {
+  z-index: 107;
+  position: absolute;
+  left: 0.47vw;
+  top: -0.05vw;
+  width: 62.04vw;
+  height: 37.71vw;
+}
+
+.bd10 {
+  z-index: 108;
+  position: absolute;
+  left: 1.05vw;
+  top: 2.09vw;
+  width: 62.5vw;
+  height: 37.71vw;
+  background: url(./img/SketchPngd56d305acd9a8f063873695a08378ed939861c8ee50baa307f880949e553db55.png) -0.32vw -0.79vw
+    no-repeat;
+  background-size: 63.54vw 39.21vw;
+}
+
+.block4 {
+  z-index: 140;
+  position: absolute;
+  left: 11.1vw;
+  top: 9.02vw;
+  width: 6.62vw;
+  height: 4.95vw;
+  background: url(./img/SketchPng1761e38b7883529e26ad90291bc3af769000b71466619603e6179c5726dc41bf.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 6.66vw 5vw;
+}
+
+.paragraph1 {
+  z-index: 156;
+  position: absolute;
+  left: 48.13vw;
+  top: 11.31vw;
+  width: 30.58vw;
+  height: 6.98vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(245, 122, 10, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  line-height: 3.49vw;
+  text-align: center;
+  background-image: linear-gradient(
+    270deg,
+    rgba(16, 192, 163, 1) 0%,
+    rgba(188, 243, 160, 1) 53%,
+    rgba(17, 195, 165, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.word13 {
+  z-index: 128;
+  position: absolute;
+  left: 45.37vw;
+  top: 20.79vw;
+  width: 38.03vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+}
+
+.info7 {
+  z-index: 165;
+  position: absolute;
+  left: 40.47vw;
+  top: 24.59vw;
+  width: 47.77vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+}
+
+.pic7 {
+  z-index: 151;
+  position: absolute;
+  left: 13.81vw;
+  top: 28.03vw;
+  width: 2.82vw;
+  height: 2.35vw;
+}
+
+.word14 {
+  z-index: 166;
+  position: absolute;
+  left: 46.62vw;
+  top: 28.39vw;
+  width: 35.47vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: center;
+}
+
+.block5 {
+  z-index: 173;
+  height: 2.87vw;
+  border-radius: 27.5px 27.5px 27.5px 0;
+  background: url(./img/SketchPng80e5394c2ccaf586b40a150241a8891c8ac15c5a138aa6ddcdc2e5649f6667db.png)
+    100% no-repeat;
+  width: 10.73vw;
+  position: absolute;
+  left: 68.75vw;
+  top: 34.54vw;
+}
+
+.info8 {
+  width: 7.61vw;
+  height: 1.62vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 1.14vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 1.62vw;
+  text-align: center;
+}
+
+.word15 {
+  z-index: 139;
+  position: absolute;
+  left: 59.95vw;
+  top: 37.71vw;
+  width: 6.2vw;
+  height: 1.57vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.25vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 1.57vw;
+  text-align: center;
+  background-image: linear-gradient(
+    90deg,
+    rgba(203, 253, 177, 1) 0%,
+    rgba(95, 236, 133, 1) 50%,
+    rgba(14, 170, 148, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.img12 {
+  z-index: 255;
+  position: absolute;
+  left: 40.16vw;
+  top: 93.44vw;
+  width: 12.56vw;
+  height: 15.32vw;
+}
+
+.block6 {
+  z-index: 246;
+  position: absolute;
+  left: 41.25vw;
+  top: 129.43vw;
+  width: 17.5vw;
+  height: 21.88vw;
+  background: url(./img/SketchPngacd533962d537ec83e05e7b2c2958bb68a909eea00925a9cad65a2f979fea051.png) -1.1vw
+    0.68vw no-repeat;
+  background-size: 19.68vw 22.76vw;
+}
+
+.block7 {
+  z-index: 109;
+  position: absolute;
+  left: 37.97vw;
+  top: 185.27vw;
+  width: 28.55vw;
+  height: 23.49vw;
+  box-shadow: 6px -30px 20px 0px rgba(19, 25, 27, 1);
+  background: url(./img/SketchPng76cc82dccc2755e7cb3820feb5e68715529de66e3e066daa939664fc748d0192.png) -0.63vw -2.56vw
+    no-repeat;
+  background-size: 30.41vw 26.04vw;
+}
+
+.outer20 {
+  z-index: 178;
+  position: absolute;
+  left: 0.06vw;
+  top: 306.78vw;
+  width: 99.95vw;
+  height: 64.9vw;
+  background-image: linear-gradient(
+    180deg,
+    rgba(210, 240, 195, 1) 0%,
+    rgba(34, 210, 158, 1) 52%,
+    rgba(0, 143, 142, 1) 100%
+  );
+}
+
+.outer21 {
+  z-index: 181;
+  height: 65vw;
+  background: url(./img/SketchPngd905bb1ba6e6c7feb7aafd2427071c86b69aa33a2d624845d0b00623ab2494a2.png)
+    100% no-repeat;
+  width: 100vw;
+  position: absolute;
+  left: 0;
+  top: 306.72vw;
+  padding: 11.82vw 0 0 12.55vw;
+}
+
+.main9 {
+  width: 77.19vw;
+  height: 50.47vw;
+}
+
+.word16 {
+  width: 21.83vw;
+  height: 3.49vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 3.49vw;
+  text-align: center;
+  margin-left: 26.57vw;
+}
+
+.paragraph2 {
+  width: 46.1vw;
+  height: 4.59vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(10, 14, 15, 1);
+  font-size: 1.66vw;
+  font-family: MountainsofChristmas-Bold;
+  line-height: 2.3vw;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 2.34vw 0 0 14.42vw;
+}
+
+.wrap3 {
+  width: 76.57vw;
+  height: 19.22vw;
+  margin-top: 4.54vw;
+}
+
+.outer22 {
+  width: 27.82vw;
+  height: 18.34vw;
+  margin-top: 0.53vw;
+}
+
+.section4 {
+  width: 21.36vw;
+  height: 6.15vw;
+  margin-left: 0.06vw;
+}
+
+.word17 {
+  width: 11.2vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+}
+
+.pic8 {
+  width: 8.39vw;
+  height: 4.43vw;
+  margin-top: 1.72vw;
+}
+
+.section5 {
+  width: 22.66vw;
+  height: 3.81vw;
+  margin: 1.56vw 0 0 5.15vw;
+}
+
+.txt5 {
+  width: 7.82vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+}
+
+.pic9 {
+  width: 3.91vw;
+  height: 1.15vw;
+  background: url(./img/SketchPng74402c0e3a3f0e6ed7a4a514c5846056a7e6708aa8cd3744e9d6dce27b5c67d5.png)
+    0vw 0.27vw no-repeat;
+  background-size: 3.95vw 0.78vw;
+  margin: 0.78vw 0 0 2.86vw;
+}
+
+.txt6 {
+  width: 6.78vw;
+  height: 3.55vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.29vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 3.55vw;
+  text-align: center;
+  -webkit-text-stroke: 1.5px rgba(185, 235, 189, 1);
+  text-shadow: 0px 0px 13px rgba(128, 247, 145, 1);
+  margin: 0.26vw 0 0 1.3vw;
+}
+
+.section6 {
+  width: 22.14vw;
+  height: 5.63vw;
+  margin-top: 1.2vw;
+}
+
+.info9 {
+  width: 13.55vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+  margin-top: 3.18vw;
+}
+
+.pic10 {
+  width: 8.39vw;
+  height: 4.38vw;
+}
+
+.outer23 {
+  width: 10.53vw;
+  height: 16.62vw;
+  margin: 2.6vw 0 0 2.55vw;
+}
+
+.box18 {
+  width: 1.1vw;
+  height: 2.04vw;
+  background: url(./img/SketchPng0a6dcb52aeb51c0230038d9a47729f256826936dbc199673548811cc18b83fd9.png)
+    100% no-repeat;
+  margin-left: 3.13vw;
+}
+
+.box19 {
+  height: 10.21vw;
+  background: url(./img/SketchPngec180019d39476f287804443d1456bccb6eb5518764dcfc8957d03891ae0e049.png)
+    0vw 0vw no-repeat;
+  background-size: 10.52vw 10.2vw;
+  margin-top: 0.63vw;
+  width: 10.53vw;
+}
+
+.mod6 {
+  width: 0.58vw;
+  height: 1.36vw;
+  margin: 0.1vw 0 0 5.31vw;
+}
+
+.block8 {
+  width: 0.58vw;
+  height: 1.36vw;
+  background: url(./img/SketchPng1af1a825bd3f7b777280c5d2bc30f8fa51367e836e257ba0a32c8c65e3f17e70.png)
+    0vw 0vw no-repeat;
+  background-size: 0.57vw 1.35vw;
+}
+
+.mod7 {
+  width: 0.47vw;
+  height: 1.36vw;
+  margin: 0.46vw 0 6.92vw 9.63vw;
+}
+
+.section7 {
+  width: 0.47vw;
+  height: 1.36vw;
+  background: url(./img/SketchPngd028e8a5f175ac669800b65cc243d90c6cbcbb59f61930e351ee6f96b7663989.png)
+    0vw 0vw no-repeat;
+  background-size: 0.46vw 1.3vw;
+}
+
+.word18 {
+  width: 5vw;
+  height: 2.97vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.39vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 2.97vw;
+  text-align: center;
+  -webkit-text-stroke: 1.5px rgba(73, 251, 205, 1);
+  text-shadow: 0px 0px 13px rgba(154, 252, 162, 1);
+  margin: 0.78vw 0 0 2.08vw;
+}
+
+.outer24 {
+  width: 33.6vw;
+  height: 18.96vw;
+  margin-left: 2.09vw;
+}
+
+.mod8 {
+  width: 24.59vw;
+  height: 6.25vw;
+  margin-left: 5.79vw;
+}
+
+.img13 {
+  width: 8.18vw;
+  height: 4.8vw;
+  margin-top: 1.46vw;
+}
+
+.txt7 {
+  width: 15.47vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+}
+
+.mod9 {
+  width: 33.6vw;
+  height: 3.7vw;
+  margin-top: 1.36vw;
+}
+
+.word19 {
+  width: 9.43vw;
+  height: 2.82vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.29vw;
+  font-family: MetalMania-Regular;
+  white-space: nowrap;
+  line-height: 2.82vw;
+  text-align: center;
+  -webkit-text-stroke: 1.5px rgba(73, 251, 205, 1);
+  text-shadow: 0px 0px 13px rgba(154, 252, 162, 1);
+  margin-top: 0.89vw;
+}
+
+.pic11 {
+  width: 3.91vw;
+  height: 1.15vw;
+  background: url(./img/SketchPng7c63b0858dc90e6bde924adda27cc68751dec4e0ed0417a6b0cd1e4ea10be954.png)
+    0vw 0.06vw no-repeat;
+  background-size: 3.95vw 0.78vw;
+  margin: 1.14vw 0 0 1.61vw;
+}
+
+.txt8 {
+  width: 18.18vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+  margin-left: 0.47vw;
+}
+
+.mod10 {
+  width: 23.29vw;
+  height: 5.68vw;
+  margin: 1.97vw 0 0 5.67vw;
+}
+
+.img14 {
+  width: 8.44vw;
+  height: 4.33vw;
+}
+
+.word20 {
+  width: 13.55vw;
+  height: 2.45vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(19, 25, 27, 1);
+  font-size: 1.77vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.45vw;
+  text-align: center;
+  margin-top: 3.23vw;
+}
+
+.wrap4 {
+  width: 74.9vw;
+  height: 14.43vw;
+  margin: 1.87vw 0 0 2.29vw;
+}
+
+.img15 {
+  width: 3.13vw;
+  height: 12.04vw;
+}
+
+.pic12 {
+  width: 2.61vw;
+  height: 6.88vw;
+  margin: 7.55vw 0 0 40.36vw;
+}
+
+.img16 {
+  width: 6.98vw;
+  height: 11.41vw;
+  margin: 0.83vw 0 0 21.82vw;
+}
+
+.main10 {
+  z-index: 207;
+  position: absolute;
+  left: 42.56vw;
+  top: 31.15vw;
+  width: 0.84vw;
+  height: 1.25vw;
+  background: url(./img/SketchPngecd7a68f50494914dce5c3ad65f4eb57b10b4c84a88f7fe7b9752a5d770682a6.png)
+    0vw 0vw no-repeat;
+  background-size: 0.78vw 1.25vw;
+}
+
+.main11 {
+  z-index: 204;
+  position: absolute;
+  left: 51.25vw;
+  top: 31.2vw;
+  width: 0.99vw;
+  height: 1.78vw;
+  background: url(./img/SketchPnga68ab97085b9e416ecdc39b781f19762e3cb579e8e4c2bbe6565ab0a83144bf5.png)
+    0vw 0vw no-repeat;
+  background-size: 0.93vw 1.77vw;
+}
+
+.outer25 {
+  z-index: 286;
+  height: 79.8vw;
+  background-color: rgba(19, 25, 27, 1);
+  width: 99.95vw;
+  position: absolute;
+  left: 0;
+  top: 371.67vw;
+}
+
+.section8 {
+  width: 68.29vw;
+  height: 27.04vw;
+  margin: 7.23vw 0 0 15.46vw;
+}
+
+.main12 {
+  height: 25.32vw;
+  border-radius: 50%;
+  background: url(./img/SketchPng1b1b609d335b63cfbb05476e2ca806ce1ffa9250ab856a3a1bce0034e9f5da4e.png) -3.55vw -3.55vw
+    no-repeat;
+  background-size: 32.39vw 32.39vw;
+  margin-top: 1.72vw;
+  width: 25.32vw;
+  padding: 6.3vw 0 0 1.45vw;
+}
+
+.block9 {
+  width: 21.93vw;
+  height: 13.34vw;
+}
+
+.txt9 {
+  width: 18.91vw;
+  height: 2.56vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 1.87vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.56vw;
+  text-align: right;
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 254, 168, 1) 0%,
+    rgba(211, 255, 189, 1) 59%,
+    rgba(15, 246, 207, 1) 100%
+  );
+  margin-left: 3.03vw;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.word21 {
+  width: 21.93vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(7, 245, 184, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+  margin-top: 5.16vw;
+}
+
+.word22 {
+  width: 8.08vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 247, 184, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+  margin: 1.35vw 0 0 13.85vw;
+}
+
+.info10 {
+  width: 9.28vw;
+  height: 3.49vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 1);
+  font-size: 2.5vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 3.49vw;
+  text-align: right;
+  background-image: linear-gradient(
+    90deg,
+    rgba(45, 223, 156, 1) 0%,
+    rgba(211, 255, 189, 1) 59%,
+    rgba(41, 227, 206, 1) 100%
+  );
+  margin-left: 4.59vw;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main13 {
+  width: 21.25vw;
+  height: 6.57vw;
+  margin: 19.21vw 0 0 7.86vw;
+}
+
+.word23 {
+  width: 21.25vw;
+  height: 2.77vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 0.6);
+  font-size: 1.97vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.77vw;
+  text-align: right;
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 254, 168, 0.6) 0%,
+    rgba(211, 255, 189, 0.6) 59%,
+    rgba(15, 246, 207, 0.6) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.info11 {
+  width: 17.5vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+  margin-top: 1.67vw;
+}
+
+.section9 {
+  width: 18.96vw;
+  height: 2.14vw;
+  margin: 0.1vw 0 0 62.5vw;
+}
+
+.word24 {
+  width: 18.96vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.section10 {
+  width: 66.52vw;
+  height: 3.03vw;
+  margin: 1.35vw 0 0 14.11vw;
+}
+
+.info12 {
+  width: 23.39vw;
+  height: 2.56vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 0.6);
+  font-size: 1.87vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.56vw;
+  text-align: right;
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 254, 168, 0.6) 0%,
+    rgba(211, 255, 189, 0.6) 59%,
+    rgba(15, 246, 207, 0.6) 100%
+  );
+  margin-top: 0.47vw;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.word25 {
+  width: 18.13vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.section11 {
+  width: 21.83vw;
+  height: 2.14vw;
+  margin: 1.66vw 0 0 15.67vw;
+}
+
+.word26 {
+  width: 21.83vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.section12 {
+  width: 18.49vw;
+  height: 2.14vw;
+  margin: 1.35vw 0 0 19.01vw;
+}
+
+.word27 {
+  width: 18.49vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.section13 {
+  width: 55.63vw;
+  height: 2.61vw;
+  margin: 0.88vw 0 0 25.98vw;
+}
+
+.txt10 {
+  width: 11.52vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+  margin-top: 0.47vw;
+}
+
+.word28 {
+  width: 19.12vw;
+  height: 2.56vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(40, 226, 178, 0.6);
+  font-size: 1.87vw;
+  font-family: MountainsofChristmas-Bold;
+  white-space: nowrap;
+  line-height: 2.56vw;
+  text-align: right;
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 254, 168, 0.6) 0%,
+    rgba(211, 255, 189, 0.6) 59%,
+    rgba(15, 246, 207, 0.6) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section14 {
+  width: 53.49vw;
+  height: 2.4vw;
+  margin: 1.35vw 0 0 25.98vw;
+}
+
+.word29 {
+  width: 11.52vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.word30 {
+  width: 16.98vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+  margin-top: 0.27vw;
+}
+
+.section15 {
+  width: 26.83vw;
+  height: 2.14vw;
+  margin: 1.35vw 0 0 62.5vw;
+}
+
+.info13 {
+  width: 26.83vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.section16 {
+  width: 23.6vw;
+  height: 2.14vw;
+  margin: 1.35vw 0 17.39vw 62.5vw;
+}
+
+.word31 {
+  width: 23.6vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 0.6);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.img17 {
+  z-index: 288;
+  position: absolute;
+  left: 39.69vw;
+  top: 14.95vw;
+  width: 2.14vw;
+  height: 4.07vw;
+}
+
+.info14 {
+  z-index: 306;
+  position: absolute;
+  left: 12.71vw;
+  top: 19.48vw;
+  width: 26.15vw;
+  height: 2.14vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(4, 255, 190, 1);
+  font-size: 1.56vw;
+  font-family: MountainsofChristmas-Regular;
+  white-space: nowrap;
+  line-height: 2.14vw;
+  text-align: right;
+}
+
+.outer26 {
+  z-index: 330;
+  position: absolute;
+  left: 43.75vw;
+  top: 388.7vw;
+  width: 12.5vw;
+  height: 62.97vw;
+  background-image: linear-gradient(
+    360deg,
+    rgba(19, 222, 166, 1) 0%,
+    rgba(160, 243, 168, 0) 100%
+  );
+}
+
+.img18 {
+  z-index: 333;
+  position: absolute;
+  left: 45.37vw;
+  top: 441.67vw;
+  width: 9.28vw;
+  height: 9.38vw;
+}
+
+.outer27 {
+  z-index: 360;
+  position: absolute;
+  left: 43.86vw;
+  top: 448.39vw;
+  width: 12.5vw;
+  height: 3.34vw;
+  background: url(./img/SketchPnge7fe8b6fdda6890d24e2b99b3718683433194634f3f97bfc25cfed88737bc314.png) -1.05vw
+    0.11vw no-repeat;
+  background-size: 14.58vw 4.27vw;
+}
+
+.outer28 {
+  z-index: 331;
+  position: absolute;
+  left: 0;
+  top: 449.22vw;
+  width: 100vw;
+  height: 2.5vw;
+  background: url(./img/SketchPng8496b9ff5db3421adab748f9e01682fa4a12ef010f90f14b569a2bbeffc70c9e.png)
+    100% no-repeat;
+}
+
+.outer29 {
+  z-index: 332;
+  position: absolute;
+  left: 0;
+  top: 451.72vw;
+  width: 100.06vw;
+  height: 0.06vw;
+  background: url(./img/SketchPngb3fae292be0be36fea636943f79734e498b6949aa3d2e8a3ac0cb8e1571d7c12.png)
+    0vw -0.06vw no-repeat;
+  background-size: 100vw 0.15vw;
+}
+
+.outer30 {
+  z-index: 358;
+  position: absolute;
+  left: 0;
+  top: 481.83vw;
+  width: 100vw;
+  height: 0.06vw;
+  background: url(./img/SketchPngaad3e4bab14ecc913853aed3a4790152f60278c899257dd19cc8472c9c0ed907.png)
+    100% no-repeat;
+}
